@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'KasmVilleUSA',
+    description: 'KASM inspired Spaces for work produced by BeatsvilleUsa.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://avatars.githubusercontent.com/u/62388634?v=4'/,
+    contactUrl: ''https://github.com/beatsvilleusa/notifications
   },
   reactStrictMode: true,
   swcMinify: true,
